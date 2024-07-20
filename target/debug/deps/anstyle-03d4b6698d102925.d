@@ -1,0 +1,12 @@
+/home/komu/Rust/rust-practice/blog_app_complete/target/debug/deps/libanstyle-03d4b6698d102925.rmeta: /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs
+
+/home/komu/Rust/rust-practice/blog_app_complete/target/debug/deps/libanstyle-03d4b6698d102925.rlib: /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs
+
+/home/komu/Rust/rust-practice/blog_app_complete/target/debug/deps/anstyle-03d4b6698d102925.d: /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs
+
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs:

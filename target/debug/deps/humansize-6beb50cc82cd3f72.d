@@ -1,0 +1,12 @@
+/home/komu/Rust/rust-practice/blog_app_complete/target/debug/deps/libhumansize-6beb50cc82cd3f72.rmeta: /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/lib.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/options/mod.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/options/defaults.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/numeric_traits.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/scales.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/utils.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/allocating.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/formatters.rs
+
+/home/komu/Rust/rust-practice/blog_app_complete/target/debug/deps/humansize-6beb50cc82cd3f72.d: /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/lib.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/options/mod.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/options/defaults.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/numeric_traits.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/scales.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/utils.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/allocating.rs /home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/formatters.rs
+
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/lib.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/options/mod.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/options/defaults.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/numeric_traits.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/scales.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/utils.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/allocating.rs:
+/home/komu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/humansize-2.1.3/src/formatters.rs:
